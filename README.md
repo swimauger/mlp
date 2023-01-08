@@ -21,7 +21,7 @@ flowchart LR
 ```
 <br>
 <p align="center">
-  <i>Figure 1. Diagram of the Simplest Possible Neural Network</i>
+  <i>Figure 1. Diagram of the Simplest Possible Deep Learning Neural Network</i>
 </p>
 
 ### Why Lua?
